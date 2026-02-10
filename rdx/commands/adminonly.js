@@ -3,7 +3,7 @@ module.exports = {
     name: 'adminonly',
     aliases: ['onlyadmin', 'adminmode'],
     description: 'Toggle admin only mode',
-    credits: 'SARDAR RDX',
+    credits: 'HAMZI TRICKER',
     usage: 'adminonly [on/off]',
     category: 'Admin',
     adminOnly: true,
