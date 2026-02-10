@@ -3,7 +3,7 @@ module.exports = {
     name: 'admin',
     aliases: ['admins', 'botadmin'],
     description: 'Manage bot admins',
-    credits: 'SARDAR RDX',
+    credits: 'HAMZI TRICKER',
     usage: 'admin [add/remove/list] [uid]',
     category: 'Admin',
     adminOnly: true,
