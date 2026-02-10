@@ -6,7 +6,7 @@ module.exports = {
     name: 'restart',
     aliases: ['reboot', 'rs', 'rerun', 'refresh'],
     description: 'Restart/Reload the entire bot without stopping',
-    credits: 'SARDAR RDX',
+    credits: 'HAMZI TRICKER',
     usage: 'restart',
     category: 'Admin',
     adminOnly: true,
