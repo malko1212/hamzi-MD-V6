@@ -29,7 +29,7 @@ module.exports = {
     name: 'busy',
     aliases: ['afk', 'away'],
     description: 'Record mentions when admin is busy',
-    credits: 'SARDAR RDX',
+    credits: 'HAMZI TRICKER',
     usage: 'busy [on/off/check]',
     category: 'Admin',
     groupOnly: true,
